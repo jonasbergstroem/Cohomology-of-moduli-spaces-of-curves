@@ -13,7 +13,7 @@ Note that (by purity of a smooth and proper DM-stack), a Galois representation a
 The S_n-equivariant Euler characteristic of the moduli space of stable n-pointed curves of genus g has been computed from S_n'-equivariant Euler characteristic of the moduli spaces of smooth n'-pointed curves of genus g', with 3g'-3+n' \leq 3g-3+n, using (an implementation in maple by Carel Faber of) the formula (Theorem 8.13) in: 
 "E. Getzler and M. M. Kapranov, Modular operads, Compos. Math. 110 (1998), no. 1, 65–126".
 
-...All Euler characteristics that only contain L can also be taken with values in the Grothendieck group of mixed Hodge structures... 
+The Euler characteristics could also be considered in singular cohomology with rational coefficients together with its mixed Hodge structure. Let then L denote the Tate-Hodge structure of type (1,1) and S[k] the pure Hodge structure of type (k-1,0) and (0,k-1), both of dimension dim S_k. 
 
 The package SF for maple by John Stembridge was used for computations with symmetric polynomials. 
 
