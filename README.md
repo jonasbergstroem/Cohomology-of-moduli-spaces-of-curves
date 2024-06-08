@@ -43,7 +43,7 @@ This data was computed using results from "D. Petersen, Cohomology of local syst
 
 ### Genus 3
 
-This conjectural data was computed using Theorem 7.3 in "J. Bergström and C. Faber, Cohomology of moduli spaces via a result of Chenevier and Lannes, Épijournal Géom. Algébrique 7(2023), Art. 20". From Remark 7.4 of loc cit it follows that this result is unconditional for n up to 8. Theorem 1.9 in " Samir Canning, Hannah Larson, Sam Payne, Extensions of tautological rings and motivic structures in the cohomology of Mbar_{g,n},  arXiv:2307.08830" states that Theorem 7.3 is unconditional also for n=9, 10 and 11. 
+The computation of this data was based on Theorem 7.3 (assuming Conjecture 3.2) in "J. Bergström and C. Faber, Cohomology of moduli spaces via a result of Chenevier and Lannes, Épijournal Géom. Algébrique 7(2023), Art. 20". From Remark 7.4 of loc cit it follows that this result is unconditional for n up to 8. Theorem 1.9 in " Samir Canning, Hannah Larson, Sam Payne, Extensions of tautological rings and motivic structures in the cohomology of Mbar_{g,n},  arXiv:2307.08830" states that Theorem 7.3 is unconditional also for n=9, 10 and 11. 
 
 -The file "M3n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 3 with n up to 11.
 
