@@ -13,12 +13,13 @@ Note that (by purity of a smooth and proper DM-stack), a Galois representation a
 The S_n-equivariant Euler characteristic of the moduli space of stable n-pointed curves of genus g has been computed from S_n'-equivariant Euler characteristic of the moduli spaces of smooth n'-pointed curves of genus g', with 3g'-3+n' \leq 3g-3+n, using (an implementation in maple by Carel Faber of) the formula (Theorem 8.13) in: 
 "E. Getzler and M. M. Kapranov, Modular operads, Compos. Math. 110 (1998), no. 1, 65–126".
 
+All S_n-equivariant Euler characteristics below can also be taken with values in the Grothendieck group of mixed Hodge structures. 
+
 The package SF for maple by John Stembridge was used for computations with symmetric polynomials. 
 
 ### Genus 0
 
-This data was computed using results of: 
-"E. Getzler, Operads and moduli spaces of genus 0 Riemann surfaces, in: The moduli space of curves(Texel Island, 1994), pp. 199–230, Progr. Math., vol. 129, Birkhäuser Boston, Boston, MA, 1995".
+This was computed using results from  "E. Getzler, Operads and moduli spaces of genus 0 Riemann surfaces, in: The moduli space of curves(Texel Island, 1994), pp. 199–230, Progr. Math., vol. 129, Birkhäuser Boston, Boston, MA, 1995".
 
 -The file "M0n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 0 with n up to 17.
 
@@ -26,7 +27,7 @@ This data was computed using results of:
 
 ### Genus 1 
 
-This data was computed using results from "E. Getzler, Resolving mixed Hodge modules on configuration spaces, Duke Math. J. 96 (1999), no. 1, 175–203", together with results of Section 4.5 in "J. Bergström and C. Faber, Cohomology of moduli spaces via a result of Chenevier and Lannes, Épijournal Géom. Algébrique7(2023), Art. 20, 14 pp.". 
+This data was computed using results from "E. Getzler, Resolving mixed Hodge modules on configuration spaces, Duke Math. J. 96 (1999), no. 1, 175–203", together with results of Section 4.5 in "J. Bergström and C. Faber, Cohomology of moduli spaces via a result of Chenevier and Lannes, Épijournal Géom. Algébrique 7(2023), Art. 20, 14 pp.". 
 
 -The file "M1n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 1 with n up to 15.
 
@@ -34,7 +35,7 @@ This data was computed using results from "E. Getzler, Resolving mixed Hodge mod
 
 ### Genus 2
 
-This data was computed using results from "D. Petersen, Cohomology of local systems on loci of d-elliptic abelian surfaces, Michigan Math. J. 62 (2013), no. 4, 705–720.", and from Section 4.5 in "J. Bergström and C. Faber, Cohomology of moduli spaces via a result of Chenevier and Lannes, Épijournal Géom. Algébrique7(2023), Art. 20, 14 pp.". 
+This data was computed using results from "D. Petersen, Cohomology of local systems on loci of d-elliptic abelian surfaces, Michigan Math. J. 62 (2013), no. 4, 705–720.", together with results of Section 4.5 in "J. Bergström and C. Faber, Cohomology of moduli spaces via a result of Chenevier and Lannes, Épijournal Géom. Algébrique 7(2023), Art. 20, 14 pp.". 
 
 -The file "M2n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 2 with n up to 13.
 
@@ -42,7 +43,7 @@ This data was computed using results from "D. Petersen, Cohomology of local syst
 
 ### Genus 3
 
-This conjectural data was computed using Theorem 7.3 in "J. Bergström and C. Faber, Cohomology of moduli spaces via a result of Chenevier and Lannes, Épijournal Géom. Algébrique7(2023), Art. 20, 14 pp.". From Remark 7.4 of loc cit this result is unconditional for n up to 8. Theorem xx in "" shows that Theorem 7.3 is unconditional also for n=9, 10 and 11. 
+This conjectural data was computed using Theorem 7.3 in "J. Bergström and C. Faber, Cohomology of moduli spaces via a result of Chenevier and Lannes, Épijournal Géom. Algébrique 7(2023), Art. 20, 14 pp.". From Remark 7.4 of loc cit this result is unconditional for n up to 8. Theorem 1.9 in " Samir Canning, Hannah Larson, Sam Payne, Extensions of tautological rings and motivic structures in the cohomology of Mbar_{g,n},  arXiv:2307.08830" shows that Theorem 7.3 is unconditional also for n=9, 10 and 11. 
 
 -The file "M3n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 3 with n up to 11.
 
