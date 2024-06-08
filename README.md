@@ -8,26 +8,26 @@ All Euler characteristics will have values in the Grothendieck group of ell-adic
 
 We denote the cyclotomic character of Deligne weight 2 by "L" and by S[k] the Galois representation (of dimension 2*dim S_k) corresponding to the space S_k of elliptic cusp forms of weight k and level 1. 
 
-Note that (by purity of a smooth and proper DM-stack) a contribution to the Euler characteristic of any moduli space of stable curves of Deligne weight k will have cohomological degree k. 
+Note that (by purity of a smooth and proper DM-stack), a Galois representation appearing in the Euler characteristic of any moduli space of stable curves of Deligne weight k will appear in (the semi-simplification of) its k'th cohomology group.  
 
 ### Genus 1 
 
--The file "Mbar1n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 3 with n up to 14.
+-The file "Mbar1n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 1 with n up to 14.
 
--The file "M1n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 3 with n up to 14.
+-The file "M1n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 1 with n up to 14.
 
 ### Genus 2
 
--The file "Mbar2n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 3 with n up to 14.
+-The file "Mbar2n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 2 with n up to 13.
 
--The file "M2n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 3 with n up to 14.
+-The file "M2n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 2 with n up to 13.
 
 
 ### Genus 3
 
--The file "Mbar3n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 3 with n up to 14.
+-The file "Mbar3n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 3 with n up to 11.
 
--The file "M3n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 3 with n up to 14.
+-The file "M3n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 3 with n up to 11.
 
 
 ### Genus 4
