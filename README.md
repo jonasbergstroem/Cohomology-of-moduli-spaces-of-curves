@@ -12,13 +12,14 @@ Note that (by purity of a smooth and proper DM-stack) a contribution to the Eule
 
 ### Genus 1 
 
--The file "Mbar3n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 3 with n up to 14.
--The file "M3n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 3 with n up to 14.
+-The file "Mbar1n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 3 with n up to 14.
+
+-The file "M1n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 3 with n up to 14.
 
 ### Genus 2
 
--The file "Mbar3n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 3 with n up to 14.
--The file "M3n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 3 with n up to 14.
+-The file "Mbar2n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 3 with n up to 14.
+-The file "M2n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 3 with n up to 14.
 
 
 ### Genus 3
