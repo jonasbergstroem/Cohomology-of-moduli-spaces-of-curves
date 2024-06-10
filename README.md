@@ -4,7 +4,7 @@ A compilation of results on the cohomology of moduli spaces of smooth and stable
 
 ## Description of data
 
-All Euler characteristics will (be taken in compactly supported ell-adic étale cohomology and) have values in the Grothendieck group of ell-adic absolute Galois representations. The S_n-equivariant Euler characteristics also keep track of the action of the symmetric group S_n, whose irreducible representations will be indexed in the usual fashion by Schur polynomials s[mu] with mu a partition of $n$. 
+All Euler characteristics will be taken in compactly supported ell-adic étale cohomology and have values in the Grothendieck group of ell-adic absolute Galois representations. The S_n-equivariant Euler characteristics also keep track of the action of the symmetric group S_n, whose irreducible representations will be indexed in the usual fashion by Schur polynomials s[mu] with mu a partition of $n$. 
 
 We denote the cyclotomic character of Deligne weight 2 by L and by S[k], the Galois representation (of dimension 2*dim S_k) corresponding to the space S_k of elliptic cusp forms of Deligne weight k and level 1. 
 
