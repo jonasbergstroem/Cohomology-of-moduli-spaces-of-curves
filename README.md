@@ -19,7 +19,7 @@ The package SF for maple by John Stembridge was used for computations with symme
 
 ### Genus 0
 
-This was computed using results from  "E. Getzler, Operads and moduli spaces of genus 0 Riemann surfaces, in: The moduli space of curves (Texel Island, 1994), pp. 199–230, Progr. Math., vol. 129, Birkhäuser Boston, Boston, MA, 1995". The results hold both in ell-adic and singular cohomology. 
+This data was computed using results from  "E. Getzler, Operads and moduli spaces of genus 0 Riemann surfaces, in: The moduli space of curves (Texel Island, 1994), pp. 199–230, Progr. Math., vol. 129, Birkhäuser Boston, Boston, MA, 1995". The results hold both in ell-adic and singular cohomology. 
 
 -The file "M0n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 0 with n up to 17.
 
