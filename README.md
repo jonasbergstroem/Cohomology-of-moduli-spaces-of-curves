@@ -2,13 +2,13 @@
 
 A compilation of results on the cohomology of moduli spaces of smooth and stable curves based on research from several different sources. 
 
-## Description of data together with some results
+## Description of data
 
 All Euler characteristics will (be taken in compactly supported ell-adic étale cohomology and) have values in the Grothendieck group of ell-adic absolute Galois representations. The S_n-equivariant Euler characteristics also keep track of the action of the symmetric group S_n, whose irreducible representations will be indexed in the usual fashion by Schur polynomials s[mu] with mu a partition of $n$. 
 
 We denote the cyclotomic character of Deligne weight 2 by L and by S[k], the Galois representation (of dimension 2*dim S_k) corresponding to the space S_k of elliptic cusp forms of Deligne weight k and level 1. 
 
-Note that (by purity of a smooth and proper DM-stack), a Galois representation appearing in the S_n-equivariant Euler characteristic of the moduli space of n-pointed stable curves of genus g of Deligne weight i will appear in (the semi-simplification of) its ith cohomology group.  
+Note that (by purity of a smooth and proper DM-stack), a Galois representation appearing in the S_n-equivariant Euler characteristic of the moduli space of n-pointed stable curves of genus g of Deligne weight i will appear in the semi-simplification of its ith cohomology group.  
 
 The S_n-equivariant Euler characteristic of the moduli space of n-pointed stable curves of genus g has been computed from S_n'-equivariant Euler characteristic of the moduli spaces of smooth n'-pointed curves of genus g', with 3g'-3+n' \leq 3g-3+n, using (an implementation in maple by Carel Faber of) the formula (Theorem 8.13) in: 
 "E. Getzler and M. M. Kapranov, Modular operads, Compos. Math. 110 (1998), no. 1, 65–126".
