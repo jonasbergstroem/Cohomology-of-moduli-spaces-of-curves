@@ -8,10 +8,10 @@ All Euler characteristics will be taken in compactly supported ell-adic étale c
 
 We denote the cyclotomic character of Deligne weight 2 by L and by S[k], the Galois representation (of dimension 2*dim S_k) corresponding to the space S_k of elliptic cusp forms of weight k and level 1. 
 
+All Euler characteristics can also be considered in compactly supported singular cohomology with rational coefficients together with its mixed Hodge structure. Let then L denote the Tate-Hodge structure of type (1,1) and S[k] the pure Hodge structure of type (k-1,0) and (0,k-1), both of dimension dim S_k. 
+
 The S_n-equivariant Euler characteristic of the moduli space of n-pointed stable curves of genus g has been computed from S_n'-equivariant Euler characteristic of the moduli spaces of smooth n'-pointed curves of genus g', with 3g'-3+n' \leq 3g-3+n, using (an implementation in maple by Carel Faber of) the formula (Theorem 8.13) in: 
 "E. Getzler and M. M. Kapranov, Modular operads, Compos. Math. 110 (1998), no. 1, 65–126".
-
-All Euler characteristics can also be considered in compactly supported singular cohomology with rational coefficients together with its mixed Hodge structure. Let then L denote the Tate-Hodge structure of type (1,1) and S[k] the pure Hodge structure of type (k-1,0) and (0,k-1), both of dimension dim S_k. 
 
 Note that (by purity of a smooth and proper DM-stack), a contribution to the S_n-equivariant Euler characteristic of the moduli space of n-pointed stable curves of genus g of Deligne weight i will appear in the semi-simplification of its ith cohomology group.  
 
