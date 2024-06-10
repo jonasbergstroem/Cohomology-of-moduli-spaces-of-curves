@@ -51,7 +51,11 @@ The computation of this data was based on Theorem 7.3 (assuming Conjecture 3.2) 
 
 ### Genus 4
 
-These results are found in Theorem 1.5 and Theorem 11.1 of "J. Bergström, C. Faber and S. Payne, Polynomial point counts and odd cohomology vanishing on moduli spaces of stable curves, Annals of Mathematics, 199 (3), (2024), 1323-1365." and hold also in singular cohomology. The result for n=0 was earlier proven for singular cohomology in "O. Tommasi, Rational cohomology of the moduli space of genus 4 curves, Compos. Math. 141 no. 2 (2005), 359–384" and "J. Bergström and O. Tommasi, The rational cohomology of Mbar_4, Math. Ann. 338 no. 1 (2007), 207–239".
+These results for n up to 3 are found in Theorem 1.5 and Theorem 11.1 of "J. Bergström, C. Faber and S. Payne, Polynomial point counts and odd cohomology vanishing on moduli spaces of stable curves, Annals of Mathematics, 199 (3), (2024), 1323-1365." and hold also in singular cohomology. The result for n=0 was earlier proven for singular cohomology in "O. Tommasi, Rational cohomology of the moduli space of genus 4 curves, Compos. Math. 141 no. 2 (2005), 359–384" and "J. Bergström and O. Tommasi, The rational cohomology of Mbar_4, Math. Ann. 338 no. 1 (2007), 207–239".
+
+-The file "M4n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 4 with n up to 3.
+
+-The file "Mbar4n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 4 with n up to 3.
 
 ### Genus 5
 
