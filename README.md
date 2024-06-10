@@ -35,7 +35,7 @@ This data was computed using results from "E. Getzler, Resolving mixed Hodge mod
 
 ### Genus 2
 
-This data was computed using results from "D. Petersen, Cohomology of local systems on loci of d-elliptic abelian surfaces, Michigan Math. J. 62 (2013), no. 4, 705–720.", together with results of Section 4.5 in "J. Bergström and C. Faber, Cohomology of moduli spaces via a result of Chenevier and Lannes, Épijournal Géom. Algébrique 7(2023), Art. 20". By Theorem 1.1 of "S. Canning, H. Larson and S. Payne, Extensions of tautological rings and motivic structures in the cohomology of Mbar_{g,n}, arXiv:2307.08830" these results hold (for n up to 13) also in singular cohomology.  
+This data was computed using results from "D. Petersen, Cohomology of local systems on loci of d-elliptic abelian surfaces, Michigan Math. J. 62 (2013), no. 4, 705–720", together with results of Section 4.5 in "J. Bergström and C. Faber, Cohomology of moduli spaces via a result of Chenevier and Lannes, Épijournal Géom. Algébrique 7(2023), Art. 20". By Theorem 1.1 of "S. Canning, H. Larson and S. Payne, Extensions of tautological rings and motivic structures in the cohomology of Mbar_{g,n}, arXiv:2307.08830" these results hold (for n up to 13) also in singular cohomology.  
 
 -The file "M2n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 2 with n up to 13.
 
@@ -51,7 +51,7 @@ The computation of this data was based on Theorem 7.3 (assuming Conjecture 3.2) 
 
 ### Genus 4
 
-Forthcoming. 
+These results are found in Theorem 1.5 and Theorem 11.1 of "J. Bergström, C. Faber and S. Payne, Polynomial point counts and odd cohomology vanishing on moduli spaces of stable curves, Annals of Mathematics, 199 (3), (2024), 1323-1365." and hold also in singular cohomology. The result for n=0 was earlier proven for singular cohomology in "O. Tommasi, Rational cohomology of the moduli space of genus 4 curves, Compos. Math. 141 no. 2 (2005), 359–384" and "J. Bergström and O. Tommasi, The rational cohomology of Mbar_4, Math. Ann. 338 no. 1 (2007), 207–239".
 
 ### Genus 5
 
