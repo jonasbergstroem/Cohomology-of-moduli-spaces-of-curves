@@ -2,24 +2,24 @@
 
 A compilation of results on the cohomology of moduli spaces of smooth and stable curves based on research from several different sources. 
 
-## Details
+## Description of data together with some results
 
 All Euler characteristics will (be taken in compactly supported ell-adic étale cohomology and) have values in the Grothendieck group of ell-adic absolute Galois representations. The S_n-equivariant Euler characteristics also keep track of the action of the symmetric group S_n, whose irreducible representations will be indexed in the usual fashion by Schur polynomials s[mu] with mu a partition of $n$. 
 
 We denote the cyclotomic character of Deligne weight 2 by L and by S[k], the Galois representation (of dimension 2*dim S_k) corresponding to the space S_k of elliptic cusp forms of Deligne weight k and level 1. 
 
-Note that (by purity of a smooth and proper DM-stack), a Galois representation appearing in the S_n-equivariant Euler characteristic of any moduli space of stable curves of Deligne weight i will appear in (the semi-simplification of) its ith cohomology group.  
+Note that (by purity of a smooth and proper DM-stack), a Galois representation appearing in the S_n-equivariant Euler characteristic of Mbar_{g,n} (the moduli space of n-pointed stable curves of genus g) of Deligne weight i will appear in (the semi-simplification of) its ith cohomology group.  
 
-The S_n-equivariant Euler characteristic of the moduli space of stable n-pointed curves of genus g has been computed from S_n'-equivariant Euler characteristic of the moduli spaces of smooth n'-pointed curves of genus g', with 3g'-3+n' \leq 3g-3+n, using (an implementation in maple by Carel Faber of) the formula (Theorem 8.13) in: 
+The S_n-equivariant Euler characteristic of Mbar_{g,n} has been computed from S_n'-equivariant Euler characteristic of M_{g',n'} (the moduli spaces of smooth n'-pointed curves of genus g'), with 3g'-3+n' \leq 3g-3+n, using (an implementation in maple by Carel Faber of) the formula (Theorem 8.13) in: 
 "E. Getzler and M. M. Kapranov, Modular operads, Compos. Math. 110 (1998), no. 1, 65–126".
 
-The Euler characteristics could also be considered in singular cohomology with rational coefficients together with its mixed Hodge structure. Let then L denote the Tate-Hodge structure of type (1,1) and S[k] the pure Hodge structure of type (k-1,0) and (0,k-1), both of dimension dim S_k. 
+All Euler characteristics can also be considered in compactly supported singular cohomology with rational coefficients together with its mixed Hodge structure. Let then L denote the Tate-Hodge structure of type (1,1) and S[k] the pure Hodge structure of type (k-1,0) and (0,k-1), both of dimension dim S_k. 
 
 The package SF for maple by John Stembridge was used for computations with symmetric polynomials. 
 
 ### Genus 0
 
-This was computed using results from  "E. Getzler, Operads and moduli spaces of genus 0 Riemann surfaces, in: The moduli space of curves(Texel Island, 1994), pp. 199–230, Progr. Math., vol. 129, Birkhäuser Boston, Boston, MA, 1995".
+This was computed using results from  "E. Getzler, Operads and moduli spaces of genus 0 Riemann surfaces, in: The moduli space of curves (Texel Island, 1994), pp. 199–230, Progr. Math., vol. 129, Birkhäuser Boston, Boston, MA, 1995". The results hold both in ell-adic and singular cohomology. 
 
 -The file "M0n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 0 with n up to 17.
 
@@ -27,7 +27,7 @@ This was computed using results from  "E. Getzler, Operads and moduli spaces of 
 
 ### Genus 1 
 
-This data was computed using results from "E. Getzler, Resolving mixed Hodge modules on configuration spaces, Duke Math. J. 96 (1999), no. 1, 175–203", together with results of Section 4.5 in "J. Bergström and C. Faber, Cohomology of moduli spaces via a result of Chenevier and Lannes, Épijournal Géom. Algébrique 7(2023), Art. 20". 
+This data was computed using results from "E. Getzler, Resolving mixed Hodge modules on configuration spaces, Duke Math. J. 96 (1999), no. 1, 175–203", together with results of Section 4.5 in "J. Bergström and C. Faber, Cohomology of moduli spaces via a result of Chenevier and Lannes, Épijournal Géom. Algébrique 7(2023), Art. 20". The results hold both in ell-adic and singular cohomology. 
 
 -The file "M1n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 1 with n up to 15.
 
