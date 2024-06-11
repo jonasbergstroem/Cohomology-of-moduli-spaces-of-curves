@@ -1,0 +1,6 @@
+#Sn-equivariant Euler characteristics of moduli spaces of smooth n-pointed curves of genus 4
+eM40 := (L^9+L^8+L^7-L^6)*s[];
+eM41 := (L^10+2*L^9+2*L^8-L^7-L^6-L^2)*s[1];
+eM42 := (L^11+2*L^10+3*L^9-2*L^8-2*L^7-L^3-L^2)*s[2]+(L^10+L^9-2*L^7-L^3-L^2)*s[1,1];
+eM43 := (L^12+2*L^11+3*L^10-2*L^9-4*L^8+2*L^7-L^6-L^3+2*L^2)*s[3]+(L^11+2*L^10-L^9-4*L
+^8+L^7-4*L^3-1)*s[2,1]+(-L^8-2*L^3+2*L+1)*s[1,1,1];
