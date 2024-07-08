@@ -57,15 +57,4 @@ These results for n up to 3 are found in Theorem 1.5 and Theorem 11.1 of "J. Ber
 
 -The file "eMbar4n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 4 with n up to 3.
 
-### Genus 5
-
-Forthcoming. 
-
-### Genus 6
-
-Forthcoming. 
-
-### Genus 7
-
-Forthcoming. 
 
