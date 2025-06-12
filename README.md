@@ -21,25 +21,25 @@ The package SF for maple by John Stembridge was used for computations with symme
 
 This data was computed using results from  "E. Getzler, Operads and moduli spaces of genus 0 Riemann surfaces, in: The moduli space of curves (Texel Island, 1994), pp. 199–230, Progr. Math., vol. 129, Birkhäuser Boston, Boston, MA, 1995". The results hold both in ell-adic and singular cohomology. 
 
--The file "eM0n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 0 with n up to 17.
+-The file "eM0n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 0 with n up to 22.
 
--The file "eMbar0n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 0 with n up to 17.
+-The file "eMbar0n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 0 with n up to 22.
 
 ### Genus 1 
 
 This data was computed using results from "E. Getzler, Resolving mixed Hodge modules on configuration spaces, Duke Math. J. 96 (1999), no. 1, 175–203", together with results of Section 4.5 in "J. Bergström and C. Faber, Cohomology of moduli spaces via a result of Chenevier and Lannes, Épijournal Géom. Algébrique 7(2023), Art. 20". The results hold both in ell-adic and singular cohomology. 
 
--The file "eM1n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 1 with n up to 15.
+-The file "eM1n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 1 with n up to 20.
 
--The file "eMbar1n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 1 with n up to 15.
+-The file "eMbar1n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 1 with n up to 20.
 
 ### Genus 2
 
 This data was computed using results from "D. Petersen, Cohomology of local systems on loci of d-elliptic abelian surfaces, Michigan Math. J. 62 (2013), no. 4, 705–720", together with results of Section 4.5 in "J. Bergström and C. Faber, Cohomology of moduli spaces via a result of Chenevier and Lannes, Épijournal Géom. Algébrique 7(2023), Art. 20". By Theorem 1.1 of "S. Canning, H. Larson and S. Payne, Extensions of tautological rings and motivic structures in the cohomology of Mbar_{g,n}, Forum Math. Pi 12 (2024) Paper No. e23" these results hold (for n up to 13) also in singular cohomology.  
 
--The file "eM2n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 2 with n up to 13.
+-The file "eM2n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 2 with n up to 18.
 
--The file "eMbar2n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 2 with n up to 13.
+-The file "eMbar2n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 2 with n up to 18.
 
 ### Genus 3
 
