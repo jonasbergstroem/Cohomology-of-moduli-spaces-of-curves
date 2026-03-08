@@ -13,7 +13,11 @@ All Euler characteristics can also be considered in compactly supported singular
 The S_n-equivariant Euler characteristic of the moduli space of n-pointed stable curves of genus g has been computed from S_n'-equivariant Euler characteristic of the moduli spaces of smooth n'-pointed curves of genus g', with 3g'-3+n' \leq 3g-3+n, using (an implementation in maple by Carel Faber of) the formula (Theorem 8.13) in: 
 "E. Getzler and M. M. Kapranov, Modular operads, Compos. Math. 110 (1998), no. 1, 65–126".
 
-Note that (by purity of a smooth and proper DM-stack), a contribution to the S_n-equivariant Euler characteristic of the moduli space of n-pointed stable curves of genus g of Deligne weight i will appear in the semi-simplification of its ith cohomology group.  
+Note that (by purity of a smooth and proper DM-stack), a contribution to the S_n-equivariant Euler characteristic of the moduli space of n-pointed stable curves of genus g of weight i will appear in the semi-simplification of its ith cohomology group. 
+
+Note also that since the moduli space of n-pointed smooth curves of genus 0 is a complement of hyperplanes in an affine space, its cohomology will also be pure, but in this case the ith cohomology group is pure of weight 2i.   
+
+For further results (for g>0) on the S_n-equivariant weight graded pieces of the cohomology groups of the moduli space of n-pointed smooth curves of genus g, of n-pointed compact curves of genus g, of n-pointed curves with rational tails of genus g, see: https://github.com/Wennink/CohomologyModuliSpaceOfCurves
 
 The package SF for maple by John Stembridge was used for computations with symmetric polynomials. 
 
