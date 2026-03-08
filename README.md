@@ -17,7 +17,8 @@ Note that (by purity of a smooth and proper DM-stack), a contribution to the S_n
 
 Note also that since the moduli space of n-pointed smooth curves of genus 0 is a complement of hyperplanes in an affine space, its cohomology will also be pure, but in this case the ith cohomology group is pure of weight 2i.   
 
-For further results (for g>0) on the S_n-equivariant weight graded pieces of the cohomology groups of the moduli space of n-pointed smooth curves of genus g, of n-pointed compact curves of genus g, of n-pointed curves with rational tails of genus g, see: https://github.com/Wennink/CohomologyModuliSpaceOfCurves
+For further results (for g>0) on the S_n-equivariant weight graded pieces of the cohomology groups of the moduli space of n-pointed smooth curves of genus g, of n-pointed compact curves of genus g, of n-pointed curves with rational tails of genus g, see: 
+https://github.com/Wennink/CohomologyModuliSpaceOfCurves
 
 The package SF for maple by John Stembridge was used for computations with symmetric polynomials. 
 
