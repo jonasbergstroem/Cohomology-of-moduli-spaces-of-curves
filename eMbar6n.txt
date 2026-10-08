@@ -1,0 +1,6 @@
+#Sn-equivariant Euler characteristics of moduli spaces of stable n-pointed curves of genus 6
+eMbar60 := (L^15+5*L^14+25*L^13+111*L^12+376*L^11+988*L^10+1917*L^9+2686
+*L^8+2686*L^7+1917*L^6+988*L^5+376*L^4+111*L^3+25*L^2+5*L+1)*s[];
+eMbar61 := (L^16+8*L^15+60*L^14+333*L^13+1426*L^12+4530*L^11+10597*L^10+
+17775*L^9+21180*L^8+17775*L^7+10597*L^6+4530*L^5+1426*L^4+333*L^3+60*L^2+8*L+1
+)*s[1];

@@ -58,10 +58,24 @@ Here is a [link](https://github.com/jonasbergstroem/M3A3interp) to a github page
 
 ### Genus 4
 
-These results for n up to 3 are found in Theorem 1.5 and Theorem 11.1 of "J. Bergström, C. Faber and S. Payne, Polynomial point counts and odd cohomology vanishing on moduli spaces of stable curves, Annals of Mathematics, 199 (3), (2024), 1323-1365." and hold also in singular cohomology. The result for n=0 was earlier proven for singular cohomology in "O. Tommasi, Rational cohomology of the moduli space of genus 4 curves, Compos. Math. 141 no. 2 (2005), 359–384" and "J. Bergström and O. Tommasi, The rational cohomology of Mbar_4, Math. Ann. 338 no. 1 (2007), 207–239".
+The results for n up to 3 are found in Theorem 1.5 and Theorem 11.1 of "J. Bergström, C. Faber and S. Payne, Polynomial point counts and odd cohomology vanishing on moduli spaces of stable curves, Annals of Mathematics, 199 (3), (2024), 1323-1365." and hold also in singular cohomology. The result for n=0 was earlier proven for singular cohomology in "O. Tommasi, Rational cohomology of the moduli space of genus 4 curves, Compos. Math. 141 no. 2 (2005), 359–384" and "J. Bergström and O. Tommasi, The rational cohomology of Mbar_4, Math. Ann. 338 no. 1 (2007), 207–239". The results for n from 4 to 7 are found in Theorem 1.2 and Theorem 1.4 of "J. Bergström, S. Canning, D. Petersen, J. Schmitt, Motivic Euler characteristics of moduli spaces of curves, arXiv:2610.09694". 
 
--The file "eM4n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 4 with n up to 3.
+-The file "eM4n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 4 with n up to 7.
 
--The file "eMbar4n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 4 with n up to 3.
+-The file "eMbar4n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 4 with n up to 7.
 
+### Genus 5
 
+These results for n up to 3 are found in Theorem 1.2 and Theorem 1.4 of "J. Bergström, S. Canning, D. Petersen, J. Schmitt, Motivic Euler characteristics of moduli spaces of curves, arXiv:2610.09694". 
+
+-The file "eM5n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 5 with n up to 3.
+
+-The file "eMbar5n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 5 with n up to 3.
+
+### Genus 6
+
+These results for n up to 1 are found in Theorem 1.2 and Theorem 1.4 of "J. Bergström, S. Canning, D. Petersen, J. Schmitt, Motivic Euler characteristics of moduli spaces of curves, arXiv:2610.09694". 
+
+-The file "eM6n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of smooth n-pointed curves of genus 6 with n up to 1.
+
+-The file "eMbar6n.txt" contains the S_n-equivariant Euler characteristics of the moduli space of stable n-pointed curves of genus 6 with n up to 1.
